@@ -1,7 +1,7 @@
 ### Halo semua 👋
 
 Perkenalkan nama saya **hanntoo**.\
-Saya seorang **Front End Developer** sedang belajar di [Dicoding](https://www.dicoding.com/).\
+Saya adalah mahasiswa **Teknologi Informasi** di [Universitas Darma Persada](https://www.unsada.ac.id/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com)ku ya.
  
 <p align="left">
